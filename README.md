@@ -1,0 +1,2 @@
+# Algerian_forest_fires_datase_Ridge_Lasso_Elastic_Regression
+Algerian forest fires datase Ridge Lasso Elastic Regression
